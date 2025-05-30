@@ -5,7 +5,7 @@ body, html {
 }
 
 .hero {
-  background-image: url('hero.jpg'); /* your scenic background image */
+  background-image: url('sunset_1.jpg'); /* your scenic background image */
   height: 80vh;
   background-size: cover;
   background-position: center;
@@ -14,7 +14,7 @@ body, html {
   justify-content: center;
 }
 
-.hero h1 {
+.sunset_1 h1 {
   color: white;
   font-size: 4em;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
